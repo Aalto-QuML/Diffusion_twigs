@@ -1,0 +1,10 @@
+
+*.iml
+data
+.idea
+scripts
+.run
+
+
+
+/exp_cond_multi/
