@@ -1,6 +1,6 @@
 # Diffusion Twigs with Loop Guidance for Conditional Graph Generation
 
- Giangiacomo Mercatali* |  [Yogesh verma*](https://yoverma.github.io/yoerma.github.io/) | Andre freitas |  [Vikas Garg](https://www.mit.edu/~vgarg/)
+ Giangiacomo Mercatali* |  [Yogesh verma*](https://yoverma.github.io/yoerma.github.io/) | Andre Freitas |  [Vikas Garg](https://www.mit.edu/~vgarg/)
  
 The code repository for the paper Diffusion Twigs with Loop Guidance for Conditional Graph Generation. (Update the lower figure with the Fig 1 from paper, also withh citation.)
 <p align="center">
