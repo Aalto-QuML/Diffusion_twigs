@@ -6,10 +6,6 @@ This repository includes the supporting code for:
 
 Giangiacomo Mercatali*, Yogesh Verma*, Andre Freitas, Vikas Garg. **Diffusion Twigs with Loop Guidance for Conditional Graph Generation**. In Advances in Neural Information Processing Systems 37, 2024.
 
-<p align="center">
-  <img src="https://github.com/Aalto-QuML/ClimODE/blob/main/workflow_final_climate_v6.png" />
-</p>
-
 # Twigs
 
 
