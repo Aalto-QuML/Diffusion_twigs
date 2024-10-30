@@ -59,9 +59,9 @@ CUDA_VISIBLE_DEVICES=0 python main.py --config configs/vpsde_qm9_cond_multi_twig
 If you find this repository useful in your research, please consider citing the following paper:
  ```
 @inproceedings{
-anonymous2024diffusion,
+diffusiontwigs,
 title={Diffusion Twigs with Loop Guidance for Conditional Graph Generation},
-author={Anonymous},
+author= {Mercatali, Giangiacomo and Verma, Yogesh and Freitas, Andre and Garg, Vikas},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024},
 url={https://openreview.net/forum?id=fvOCJAAYLx}
