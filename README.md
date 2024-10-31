@@ -4,7 +4,7 @@
  
 This repository includes the supporting code for:
 
-Giangiacomo Mercatali*, Yogesh Verma*, Andre Freitas, Vikas Garg. **Diffusion Twigs with Loop Guidance for Conditional Graph Generation**. In Advances in Neural Information Processing Systems 37, 2024.
+Giangiacomo Mercatali*, Yogesh Verma*, Andre Freitas, Vikas Garg. **Diffusion Twigs with Loop Guidance for Conditional Graph Generation**. In Advances in Neural Information Processing Systems 38, 2024.
 
 <p align="center">
   <img src="https://github.com/Aalto-QuML/Diffusion_twigs/blob/main/model_flow.png" />
